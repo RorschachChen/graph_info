@@ -8,3 +8,4 @@ add 5
 
 del 1
 del 2
+del 3
